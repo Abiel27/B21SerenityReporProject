@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="b21.spartan.admin.SpartanAdminTest" skipped="0" tests="1" time="0.33" timestamp="2021-04-15 03:17:24"><testcase classname="b21.spartan.admin.SpartanAdminTest" name="Test Admin GET /spartans endpoint"/></testsuite>
