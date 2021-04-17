@@ -1,2 +1,5 @@
 b21\github\gitHubTest.class
+b21\spartan\user\Spartans_UsersRoleTest.class
 b21\spartan\admin\SpartanAdminTest.class
+spartan_util\SpartanUtil.class
+config_util\ConfigReader.class
